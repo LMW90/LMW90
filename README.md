@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Projects</h1>
-![N|Solid](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)
-![N|Solid](https://img.shields.io/static/v1?label=|&message=CSS3&color=23555f&style=plastic&logo=css3)
+
 
 <h1 align="center">Technologies</h1>
 <p align="center">
